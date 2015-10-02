@@ -22,7 +22,8 @@
     }
   ],
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-jsdoc": "~0.5.7"
+    "grunt": "~0.4.x",
+    "ink-docstrap" : "^0.5.2",
+    "grunt-jsdoc": "^1.0.0"
   }
 }
